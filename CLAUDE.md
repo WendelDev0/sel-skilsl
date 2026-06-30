@@ -1,11 +1,11 @@
-# Selva Skills para Claude
+# Selva Club Skills para Claude
 
-Use este repositorio como fonte das skills da equipe Selva.
+Use este repositorio como fonte das skills da equipe Selva Club.
 
 ## Skills
 
-- `copy-selva`: copywriting, ofertas, anuncios, criativos, emails, WhatsApp, landing pages e revisao de comunicacao.
-- `trafego-selva`: planejamento, diagnostico e otimizacao de campanhas de trafego pago.
+- `copy-selva`: copywriting, ofertas, anuncios, criativos, emails, WhatsApp, landing pages, posicionamento e revisao de comunicacao da Selva Club.
+- `trafego-selva`: planejamento, diagnostico e otimizacao de campanhas de trafego pago da Selva Club.
 
 ## Regras gerais
 

@@ -1,11 +1,11 @@
-# Selva Skills
+# Selva Club Skills
 
-Repositorio compartilhado de skills da equipe Selva para uso no Codex e no Claude.
+Repositorio compartilhado de skills da equipe Selva Club para uso no Codex e no Claude.
 
 ## Skills disponiveis
 
-- `copy-selva`: ajuda a criar, revisar e padronizar copies, anuncios, criativos, landing pages, emails e mensagens comerciais no tom da Selva.
-- `trafego-selva`: ajuda a planejar, revisar e otimizar campanhas de trafego pago, funis, segmentacoes, ofertas e diagnosticos de performance.
+- `copy-selva`: ajuda a criar, revisar e padronizar copies, anuncios, criativos, landing pages, emails e mensagens comerciais no tom da Selva Club.
+- `trafego-selva`: ajuda a planejar, revisar e otimizar campanhas de trafego pago, funis, segmentacoes, ofertas e diagnosticos de performance da Selva Club.
 
 ## Estrutura
 
@@ -32,8 +32,8 @@ Copy-Item -Recurse ".\skills\trafego-selva" "$env:USERPROFILE\.codex\skills\traf
 3. Em uma conversa, chame a skill pelo nome:
 
 ```text
-Use a skill copy-selva para revisar esta campanha.
-Use a skill trafego-selva para montar um plano de campanha.
+Use a skill copy-selva para revisar esta campanha da Selva Club.
+Use a skill trafego-selva para montar um plano de campanha da Selva Club.
 ```
 
 ## Como usar no Claude
